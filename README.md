@@ -113,4 +113,8 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anishkotian/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anishkotian/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Anishkotian/DSA/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
