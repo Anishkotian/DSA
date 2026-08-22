@@ -117,4 +117,5 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Anishkotian/DSA/tree/master/0176-second-highest-salary) |
+| [0182-duplicate-emails](https://github.com/Anishkotian/DSA/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
