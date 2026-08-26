@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/Anishkotian/DSA/tree/master/0520-detect-capital) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anishkotian/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anishkotian/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
 |  |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anishkotian/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anishkotian/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anishkotian/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anishkotian/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
