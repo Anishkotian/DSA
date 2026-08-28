@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/Anishkotian/DSA/tree/master/0520-detect-capital) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Anishkotian/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anishkotian/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anishkotian/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Anishkotian/DSA/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
@@ -65,6 +66,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1208-get-equal-substrings-within-budget](https://github.com/Anishkotian/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anishkotian/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -74,6 +76,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1208-get-equal-substrings-within-budget](https://github.com/Anishkotian/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anishkotian/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anishkotian/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anishkotian/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -87,6 +90,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1208-get-equal-substrings-within-budget](https://github.com/Anishkotian/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anishkotian/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
