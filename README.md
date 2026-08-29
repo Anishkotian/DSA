@@ -43,6 +43,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anishkotian/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anishkotian/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anishkotian/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3301-maximize-the-total-height-of-unique-towers](https://github.com/Anishkotian/DSA/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/Anishkotian/DSA/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anishkotian/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anishkotian/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -79,6 +80,7 @@
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Anishkotian/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anishkotian/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3301-maximize-the-total-height-of-unique-towers](https://github.com/Anishkotian/DSA/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/Anishkotian/DSA/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 ## Sliding Window
 |  |
@@ -96,6 +98,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anishkotian/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anishkotian/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anishkotian/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3301-maximize-the-total-height-of-unique-towers](https://github.com/Anishkotian/DSA/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/Anishkotian/DSA/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 ## Prefix Sum
 |  |
