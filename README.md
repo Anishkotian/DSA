@@ -176,4 +176,8 @@
 |  |
 | ------- |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Anishkotian/DSA/tree/master/3462-maximum-sum-with-at-most-k-elements) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Anishkotian/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
