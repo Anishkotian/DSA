@@ -12,11 +12,13 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Anishkotian/DSA/tree/master/0100-same-tree) |
+| [0778-swim-in-rising-water](https://github.com/Anishkotian/DSA/tree/master/0778-swim-in-rising-water) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Anishkotian/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Anishkotian/DSA/tree/master/0100-same-tree) |
+| [0778-swim-in-rising-water](https://github.com/Anishkotian/DSA/tree/master/0778-swim-in-rising-water) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Anishkotian/DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Anishkotian/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -39,6 +41,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anishkotian/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anishkotian/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0778-swim-in-rising-water](https://github.com/Anishkotian/DSA/tree/master/0778-swim-in-rising-water) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Anishkotian/DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anishkotian/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/Anishkotian/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -84,6 +87,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Anishkotian/DSA/tree/master/0778-swim-in-rising-water) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Anishkotian/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anishkotian/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
@@ -179,18 +183,29 @@
 ## Union-Find
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Anishkotian/DSA/tree/master/0778-swim-in-rising-water) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anishkotian/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Anishkotian/DSA/tree/master/0778-swim-in-rising-water) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Anishkotian/DSA/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Matrix
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Anishkotian/DSA/tree/master/0778-swim-in-rising-water) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Anishkotian/DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Anishkotian/DSA/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Linked List
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Anishkotian/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Anishkotian/DSA/tree/master/0778-swim-in-rising-water) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Anishkotian/DSA/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
