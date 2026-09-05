@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Anishkotian/DSA/tree/master/0100-same-tree) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Anishkotian/DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Anishkotian/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -38,6 +39,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anishkotian/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anishkotian/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Anishkotian/DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anishkotian/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/Anishkotian/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anishkotian/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -181,6 +183,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Anishkotian/DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Anishkotian/DSA/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Linked List
 |  |
