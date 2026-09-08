@@ -19,6 +19,6 @@ public:
         sort(nums.begin(),nums.end());
         long long res1=ans(nums,upper);
         long long res2=ans(nums,lower-1);
-        return res1-res2+1;
+        return res1-res2;
     }
 };
