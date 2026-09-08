@@ -40,6 +40,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Anishkotian/DSA/tree/master/0016-3sum-closest) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anishkotian/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anishkotian/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0778-swim-in-rising-water](https://github.com/Anishkotian/DSA/tree/master/0778-swim-in-rising-water) |
@@ -113,6 +114,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Anishkotian/DSA/tree/master/0016-3sum-closest) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anishkotian/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anishkotian/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anishkotian/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -211,4 +213,8 @@
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Anishkotian/DSA/tree/master/0778-swim-in-rising-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Anishkotian/DSA/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
