@@ -46,6 +46,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anishkotian/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anishkotian/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0778-swim-in-rising-water](https://github.com/Anishkotian/DSA/tree/master/0778-swim-in-rising-water) |
+| [0881-boats-to-save-people](https://github.com/Anishkotian/DSA/tree/master/0881-boats-to-save-people) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Anishkotian/DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anishkotian/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/Anishkotian/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -98,6 +99,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/Anishkotian/DSA/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/Anishkotian/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anishkotian/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anishkotian/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -118,6 +120,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/Anishkotian/DSA/tree/master/0016-3sum-closest) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anishkotian/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0881-boats-to-save-people](https://github.com/Anishkotian/DSA/tree/master/0881-boats-to-save-people) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anishkotian/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anishkotian/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anishkotian/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -222,4 +225,9 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Anishkotian/DSA/tree/master/0016-3sum-closest) |
+| [0881-boats-to-save-people](https://github.com/Anishkotian/DSA/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Anishkotian/DSA/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
