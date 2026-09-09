@@ -49,6 +49,7 @@
 | [0881-boats-to-save-people](https://github.com/Anishkotian/DSA/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Anishkotian/DSA/tree/master/0904-fruit-into-baskets) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Anishkotian/DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anishkotian/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anishkotian/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/Anishkotian/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anishkotian/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -115,6 +116,7 @@
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/Anishkotian/DSA/tree/master/0904-fruit-into-baskets) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Anishkotian/DSA/tree/master/1208-get-equal-substrings-within-budget) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anishkotian/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anishkotian/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anishkotian/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anishkotian/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
