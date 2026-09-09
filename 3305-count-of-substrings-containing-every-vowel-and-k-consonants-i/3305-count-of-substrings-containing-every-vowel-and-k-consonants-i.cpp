@@ -5,7 +5,7 @@ public:
     }
 
     long long fun(string s,int k){
-        unordered_map<char,int> m;
+        unordered_map<char,int>m;
         int l=0,c=0;
         long long ans=0;              
         for(int r=0;r<s.size();r++){
