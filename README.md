@@ -67,6 +67,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anishkotian/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anishkotian/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anishkotian/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Anishkotian/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/Anishkotian/DSA/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/Anishkotian/DSA/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Anishkotian/DSA/tree/master/3462-maximum-sum-with-at-most-k-elements) |
@@ -128,6 +129,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anishkotian/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anishkotian/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anishkotian/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Anishkotian/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Anishkotian/DSA/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Sorting
 |  |
