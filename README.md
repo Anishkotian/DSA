@@ -74,6 +74,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anishkotian/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anishkotian/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anishkotian/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3708-longest-fibonacci-subarray](https://github.com/Anishkotian/DSA/tree/master/3708-longest-fibonacci-subarray) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anishkotian/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Anishkotian/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Anishkotian/DSA/tree/master/3904-smallest-stable-index-ii) |
