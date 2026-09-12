@@ -59,6 +59,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anishkotian/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2090-k-radius-subarray-averages](https://github.com/Anishkotian/DSA/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anishkotian/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2295-replace-elements-in-an-array](https://github.com/Anishkotian/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [2305-fair-distribution-of-cookies](https://github.com/Anishkotian/DSA/tree/master/2305-fair-distribution-of-cookies) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Anishkotian/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anishkotian/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -166,6 +167,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anishkotian/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/Anishkotian/DSA/tree/master/0904-fruit-into-baskets) |
 | [1386-cinema-seat-allocation](https://github.com/Anishkotian/DSA/tree/master/1386-cinema-seat-allocation) |
+| [2295-replace-elements-in-an-array](https://github.com/Anishkotian/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [2405-optimal-partition-of-string](https://github.com/Anishkotian/DSA/tree/master/2405-optimal-partition-of-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anishkotian/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Anishkotian/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -196,6 +198,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2295-replace-elements-in-an-array](https://github.com/Anishkotian/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anishkotian/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Divide and Conquer
 |  |
