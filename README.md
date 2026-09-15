@@ -37,6 +37,7 @@
 | [0115-distinct-subsequences](https://github.com/Anishkotian/DSA/tree/master/0115-distinct-subsequences) |
 | [0520-detect-capital](https://github.com/Anishkotian/DSA/tree/master/0520-detect-capital) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Anishkotian/DSA/tree/master/1208-get-equal-substrings-within-budget) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Anishkotian/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2405-optimal-partition-of-string](https://github.com/Anishkotian/DSA/tree/master/2405-optimal-partition-of-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anishkotian/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anishkotian/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -61,6 +62,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anishkotian/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2295-replace-elements-in-an-array](https://github.com/Anishkotian/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [2305-fair-distribution-of-cookies](https://github.com/Anishkotian/DSA/tree/master/2305-fair-distribution-of-cookies) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Anishkotian/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Anishkotian/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anishkotian/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anishkotian/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -159,6 +161,7 @@
 | ------- |
 | [1208-get-equal-substrings-within-budget](https://github.com/Anishkotian/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anishkotian/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Anishkotian/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3903-smallest-stable-index-i](https://github.com/Anishkotian/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Anishkotian/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
