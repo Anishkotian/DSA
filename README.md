@@ -68,6 +68,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anishkotian/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anishkotian/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Anishkotian/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anishkotian/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Anishkotian/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anishkotian/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anishkotian/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -116,6 +117,7 @@
 | [0778-swim-in-rising-water](https://github.com/Anishkotian/DSA/tree/master/0778-swim-in-rising-water) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Anishkotian/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anishkotian/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anishkotian/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Anishkotian/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Greedy
 |  |
@@ -125,6 +127,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anishkotian/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anishkotian/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2405-optimal-partition-of-string](https://github.com/Anishkotian/DSA/tree/master/2405-optimal-partition-of-string) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anishkotian/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/Anishkotian/DSA/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/Anishkotian/DSA/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Anishkotian/DSA/tree/master/3462-maximum-sum-with-at-most-k-elements) |
@@ -153,6 +156,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/Anishkotian/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anishkotian/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Anishkotian/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anishkotian/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Anishkotian/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anishkotian/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anishkotian/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -181,6 +185,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anishkotian/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anishkotian/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Anishkotian/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anishkotian/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anishkotian/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anishkotian/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anishkotian/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
