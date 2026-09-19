@@ -198,6 +198,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anishkotian/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anishkotian/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/Anishkotian/DSA/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Anishkotian/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1492-the-kth-factor-of-n](https://github.com/Anishkotian/DSA/tree/master/1492-the-kth-factor-of-n) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Anishkotian/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anishkotian/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -297,6 +298,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Anishkotian/DSA/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Anishkotian/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Combinatorics
 |  |
 | ------- |
