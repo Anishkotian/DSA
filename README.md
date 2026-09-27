@@ -36,6 +36,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Anishkotian/DSA/tree/master/0115-distinct-subsequences) |
 | [0520-detect-capital](https://github.com/Anishkotian/DSA/tree/master/0520-detect-capital) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anishkotian/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Anishkotian/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Anishkotian/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Anishkotian/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
@@ -323,9 +324,14 @@
 ## Stack
 |  |
 | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anishkotian/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3676-count-bowl-subarrays](https://github.com/Anishkotian/DSA/tree/master/3676-count-bowl-subarrays) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [3676-count-bowl-subarrays](https://github.com/Anishkotian/DSA/tree/master/3676-count-bowl-subarrays) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anishkotian/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
