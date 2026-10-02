@@ -34,6 +34,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Anishkotian/DSA/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Anishkotian/DSA/tree/master/0115-distinct-subsequences) |
 | [0520-detect-capital](https://github.com/Anishkotian/DSA/tree/master/0520-detect-capital) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anishkotian/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -96,6 +97,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Anishkotian/DSA/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Anishkotian/DSA/tree/master/0115-distinct-subsequences) |
 | [0338-counting-bits](https://github.com/Anishkotian/DSA/tree/master/0338-counting-bits) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Anishkotian/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -103,6 +105,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Anishkotian/DSA/tree/master/0022-generate-parentheses) |
 | [2305-fair-distribution-of-cookies](https://github.com/Anishkotian/DSA/tree/master/2305-fair-distribution-of-cookies) |
 ## Bit Manipulation
 |  |
@@ -335,6 +338,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Anishkotian/DSA/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anishkotian/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anishkotian/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
