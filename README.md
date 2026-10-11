@@ -83,6 +83,7 @@
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Anishkotian/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anishkotian/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Anishkotian/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Anishkotian/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anishkotian/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anishkotian/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anishkotian/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -324,6 +325,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Anishkotian/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anishkotian/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
