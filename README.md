@@ -96,6 +96,7 @@
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Anishkotian/DSA/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anishkotian/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anishkotian/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Anishkotian/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3676-count-bowl-subarrays](https://github.com/Anishkotian/DSA/tree/master/3676-count-bowl-subarrays) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anishkotian/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3708-longest-fibonacci-subarray](https://github.com/Anishkotian/DSA/tree/master/3708-longest-fibonacci-subarray) |
@@ -187,6 +188,7 @@
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/Anishkotian/DSA/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/Anishkotian/DSA/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Anishkotian/DSA/tree/master/3462-maximum-sum-with-at-most-k-elements) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Anishkotian/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anishkotian/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
@@ -222,6 +224,7 @@
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Anishkotian/DSA/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anishkotian/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anishkotian/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Anishkotian/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Anishkotian/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Math
 |  |
