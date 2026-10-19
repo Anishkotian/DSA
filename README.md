@@ -71,6 +71,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anishkotian/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/Anishkotian/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anishkotian/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anishkotian/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/Anishkotian/DSA/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anishkotian/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anishkotian/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -139,6 +140,7 @@
 | [0778-swim-in-rising-water](https://github.com/Anishkotian/DSA/tree/master/0778-swim-in-rising-water) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Anishkotian/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anishkotian/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anishkotian/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anishkotian/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Anishkotian/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Greedy
@@ -180,6 +182,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anishkotian/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Anishkotian/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anishkotian/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anishkotian/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Anishkotian/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anishkotian/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Anishkotian/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
