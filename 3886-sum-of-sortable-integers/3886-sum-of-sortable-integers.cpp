@@ -6,10 +6,13 @@ public:
         sort(a.begin(),a.end());
         int sum=0;
         for(int k=1;k<=n;k++){
-            if(n%k!=0)continue;
+            if(n%k!=0){
+                continue;
+            }
             int d=1;
             for(int i=0;i<n;i+=k){
-                vector<int>x,y;
+                vector<int>x;
+                vector<int>y;
                 for(int j=0;j<k;j++){
                     x.push_back(nums[i+j]);
                     y.push_back(a[i+j]);
