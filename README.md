@@ -195,6 +195,7 @@
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/Anishkotian/DSA/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/Anishkotian/DSA/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Anishkotian/DSA/tree/master/3462-maximum-sum-with-at-most-k-elements) |
+| [3536-maximum-product-of-two-digits](https://github.com/Anishkotian/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Anishkotian/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anishkotian/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/Anishkotian/DSA/tree/master/3886-sum-of-sortable-integers) |
@@ -245,6 +246,7 @@
 | [1492-the-kth-factor-of-n](https://github.com/Anishkotian/DSA/tree/master/1492-the-kth-factor-of-n) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Anishkotian/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anishkotian/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3536-maximum-product-of-two-digits](https://github.com/Anishkotian/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anishkotian/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Anishkotian/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3870-count-commas-in-range](https://github.com/Anishkotian/DSA/tree/master/3870-count-commas-in-range) |
