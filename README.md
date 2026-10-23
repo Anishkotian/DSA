@@ -101,6 +101,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anishkotian/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anishkotian/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Anishkotian/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Anishkotian/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3676-count-bowl-subarrays](https://github.com/Anishkotian/DSA/tree/master/3676-count-bowl-subarrays) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anishkotian/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3708-longest-fibonacci-subarray](https://github.com/Anishkotian/DSA/tree/master/3708-longest-fibonacci-subarray) |
@@ -133,6 +134,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Anishkotian/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2305-fair-distribution-of-cookies](https://github.com/Anishkotian/DSA/tree/master/2305-fair-distribution-of-cookies) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Anishkotian/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Anishkotian/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anishkotian/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bitmask
 |  |
