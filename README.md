@@ -19,6 +19,7 @@
 | [1254-number-of-closed-islands](https://github.com/Anishkotian/DSA/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Anishkotian/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Anishkotian/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anishkotian/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [1254-number-of-closed-islands](https://github.com/Anishkotian/DSA/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Anishkotian/DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Anishkotian/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anishkotian/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anishkotian/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anishkotian/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Anishkotian/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anishkotian/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Anishkotian/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3676-count-bowl-subarrays](https://github.com/Anishkotian/DSA/tree/master/3676-count-bowl-subarrays) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anishkotian/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -307,6 +310,7 @@
 | [0778-swim-in-rising-water](https://github.com/Anishkotian/DSA/tree/master/0778-swim-in-rising-water) |
 | [1254-number-of-closed-islands](https://github.com/Anishkotian/DSA/tree/master/1254-number-of-closed-islands) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anishkotian/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anishkotian/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -319,6 +323,7 @@
 | [1254-number-of-closed-islands](https://github.com/Anishkotian/DSA/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Anishkotian/DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Anishkotian/DSA/tree/master/3462-maximum-sum-with-at-most-k-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anishkotian/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
