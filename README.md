@@ -60,6 +60,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anishkotian/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Anishkotian/DSA/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anishkotian/DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3889-mirror-frequency-distance](https://github.com/Anishkotian/DSA/tree/master/3889-mirror-frequency-distance) |
 ## Array
 |  |
 | ------- |
@@ -244,6 +245,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/Anishkotian/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Anishkotian/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Anishkotian/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3889-mirror-frequency-distance](https://github.com/Anishkotian/DSA/tree/master/3889-mirror-frequency-distance) |
 ## Math
 |  |
 | ------- |
@@ -305,6 +307,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anishkotian/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Anishkotian/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anishkotian/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3889-mirror-frequency-distance](https://github.com/Anishkotian/DSA/tree/master/3889-mirror-frequency-distance) |
 ## Union-Find
 |  |
 | ------- |
