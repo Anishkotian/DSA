@@ -110,6 +110,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anishkotian/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Anishkotian/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3676-count-bowl-subarrays](https://github.com/Anishkotian/DSA/tree/master/3676-count-bowl-subarrays) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Anishkotian/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anishkotian/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3708-longest-fibonacci-subarray](https://github.com/Anishkotian/DSA/tree/master/3708-longest-fibonacci-subarray) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anishkotian/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -142,6 +143,7 @@
 | [2305-fair-distribution-of-cookies](https://github.com/Anishkotian/DSA/tree/master/2305-fair-distribution-of-cookies) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Anishkotian/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Anishkotian/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Anishkotian/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anishkotian/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bitmask
 |  |
@@ -279,6 +281,7 @@
 | [2295-replace-elements-in-an-array](https://github.com/Anishkotian/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anishkotian/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anishkotian/DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Anishkotian/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
