@@ -60,6 +60,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anishkotian/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Anishkotian/DSA/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anishkotian/DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/Anishkotian/DSA/tree/master/3794-reverse-string-prefix) |
 | [3889-mirror-frequency-distance](https://github.com/Anishkotian/DSA/tree/master/3889-mirror-frequency-distance) |
 ## Array
 |  |
@@ -360,6 +361,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anishkotian/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Anishkotian/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Anishkotian/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
+| [3794-reverse-string-prefix](https://github.com/Anishkotian/DSA/tree/master/3794-reverse-string-prefix) |
 ## Timsort
 |  |
 | ------- |
