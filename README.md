@@ -264,6 +264,7 @@
 | [1492-the-kth-factor-of-n](https://github.com/Anishkotian/DSA/tree/master/1492-the-kth-factor-of-n) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Anishkotian/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anishkotian/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3516-find-closest-person](https://github.com/Anishkotian/DSA/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anishkotian/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anishkotian/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Anishkotian/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
