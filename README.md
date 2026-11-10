@@ -115,6 +115,7 @@
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Anishkotian/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3676-count-bowl-subarrays](https://github.com/Anishkotian/DSA/tree/master/3676-count-bowl-subarrays) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Anishkotian/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3693-climbing-stairs-ii](https://github.com/Anishkotian/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anishkotian/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3708-longest-fibonacci-subarray](https://github.com/Anishkotian/DSA/tree/master/3708-longest-fibonacci-subarray) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anishkotian/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -134,6 +135,7 @@
 | [0338-counting-bits](https://github.com/Anishkotian/DSA/tree/master/0338-counting-bits) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Anishkotian/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2305-fair-distribution-of-cookies](https://github.com/Anishkotian/DSA/tree/master/2305-fair-distribution-of-cookies) |
+| [3693-climbing-stairs-ii](https://github.com/Anishkotian/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Backtracking
 |  |
 | ------- |
