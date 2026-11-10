@@ -134,6 +134,7 @@
 | [0118-pascals-triangle](https://github.com/Anishkotian/DSA/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/Anishkotian/DSA/tree/master/0338-counting-bits) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Anishkotian/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Anishkotian/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2305-fair-distribution-of-cookies](https://github.com/Anishkotian/DSA/tree/master/2305-fair-distribution-of-cookies) |
 | [3693-climbing-stairs-ii](https://github.com/Anishkotian/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Backtracking
@@ -272,6 +273,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/Anishkotian/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1492-the-kth-factor-of-n](https://github.com/Anishkotian/DSA/tree/master/1492-the-kth-factor-of-n) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Anishkotian/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Anishkotian/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anishkotian/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2485-find-the-pivot-integer](https://github.com/Anishkotian/DSA/tree/master/2485-find-the-pivot-integer) |
 | [3516-find-closest-person](https://github.com/Anishkotian/DSA/tree/master/3516-find-closest-person) |
@@ -397,6 +399,7 @@
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Anishkotian/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Anishkotian/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 ## Pigeonhole Principle
 |  |
 | ------- |
