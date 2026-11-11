@@ -69,6 +69,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anishkotian/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anishkotian/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Anishkotian/DSA/tree/master/0118-pascals-triangle) |
+| [0204-count-primes](https://github.com/Anishkotian/DSA/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anishkotian/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anishkotian/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Anishkotian/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -267,6 +268,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Anishkotian/DSA/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/Anishkotian/DSA/tree/master/0060-permutation-sequence) |
+| [0204-count-primes](https://github.com/Anishkotian/DSA/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anishkotian/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anishkotian/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Anishkotian/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -290,6 +292,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Anishkotian/DSA/tree/master/0204-count-primes) |
 | [1492-the-kth-factor-of-n](https://github.com/Anishkotian/DSA/tree/master/1492-the-kth-factor-of-n) |
 ## Prime Factorization
 |  |
@@ -389,6 +392,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Anishkotian/DSA/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anishkotian/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anishkotian/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3886-sum-of-sortable-integers](https://github.com/Anishkotian/DSA/tree/master/3886-sum-of-sortable-integers) |
@@ -452,4 +456,16 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Anishkotian/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Anishkotian/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Anishkotian/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Anishkotian/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
