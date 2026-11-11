@@ -268,6 +268,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Anishkotian/DSA/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/Anishkotian/DSA/tree/master/0060-permutation-sequence) |
+| [0172-factorial-trailing-zeroes](https://github.com/Anishkotian/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Anishkotian/DSA/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anishkotian/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anishkotian/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
