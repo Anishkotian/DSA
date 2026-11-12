@@ -276,6 +276,7 @@
 | [0149-max-points-on-a-line](https://github.com/Anishkotian/DSA/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/Anishkotian/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Anishkotian/DSA/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/Anishkotian/DSA/tree/master/0223-rectangle-area) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anishkotian/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anishkotian/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Anishkotian/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -412,6 +413,7 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Anishkotian/DSA/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/Anishkotian/DSA/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/Anishkotian/DSA/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Anishkotian/DSA/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Anishkotian/DSA/tree/master/0883-projection-area-of-3d-shapes) |
