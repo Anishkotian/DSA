@@ -104,6 +104,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anishkotian/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anishkotian/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anishkotian/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Anishkotian/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Anishkotian/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/Anishkotian/DSA/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/Anishkotian/DSA/tree/master/3301-maximize-the-total-height-of-unique-towers) |
