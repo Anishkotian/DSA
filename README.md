@@ -54,6 +54,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anishkotian/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anishkotian/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Anishkotian/DSA/tree/master/1657-determine-if-two-strings-are-close) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Anishkotian/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Anishkotian/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2405-optimal-partition-of-string](https://github.com/Anishkotian/DSA/tree/master/2405-optimal-partition-of-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anishkotian/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -326,6 +327,7 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anishkotian/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Anishkotian/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2295-replace-elements-in-an-array](https://github.com/Anishkotian/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/Anishkotian/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anishkotian/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
