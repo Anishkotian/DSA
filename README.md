@@ -55,6 +55,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anishkotian/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anishkotian/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Anishkotian/DSA/tree/master/1657-determine-if-two-strings-are-close) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Anishkotian/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Anishkotian/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Anishkotian/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2405-optimal-partition-of-string](https://github.com/Anishkotian/DSA/tree/master/2405-optimal-partition-of-string) |
