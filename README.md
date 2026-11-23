@@ -86,6 +86,7 @@
 | [1254-number-of-closed-islands](https://github.com/Anishkotian/DSA/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Anishkotian/DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anishkotian/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anishkotian/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anishkotian/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anishkotian/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Anishkotian/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -249,6 +250,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Anishkotian/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Anishkotian/DSA/tree/master/0525-contiguous-array) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Anishkotian/DSA/tree/master/1208-get-equal-substrings-within-budget) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anishkotian/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Anishkotian/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Anishkotian/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anishkotian/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -302,6 +304,7 @@
 | [0812-largest-triangle-area](https://github.com/Anishkotian/DSA/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Anishkotian/DSA/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Anishkotian/DSA/tree/master/0883-projection-area-of-3d-shapes) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anishkotian/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Anishkotian/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1492-the-kth-factor-of-n](https://github.com/Anishkotian/DSA/tree/master/1492-the-kth-factor-of-n) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Anishkotian/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -523,4 +526,12 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Anishkotian/DSA/tree/master/0149-max-points-on-a-line) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anishkotian/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anishkotian/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
