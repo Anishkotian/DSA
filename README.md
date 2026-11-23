@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Anishkotian/DSA/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/Anishkotian/DSA/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anishkotian/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0778-swim-in-rising-water](https://github.com/Anishkotian/DSA/tree/master/0778-swim-in-rising-water) |
 | [1254-number-of-closed-islands](https://github.com/Anishkotian/DSA/tree/master/1254-number-of-closed-islands) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Anishkotian/DSA/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/Anishkotian/DSA/tree/master/0200-number-of-islands) |
 | [0778-swim-in-rising-water](https://github.com/Anishkotian/DSA/tree/master/0778-swim-in-rising-water) |
 | [1254-number-of-closed-islands](https://github.com/Anishkotian/DSA/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Anishkotian/DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -74,6 +76,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anishkotian/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Anishkotian/DSA/tree/master/0118-pascals-triangle) |
 | [0149-max-points-on-a-line](https://github.com/Anishkotian/DSA/tree/master/0149-max-points-on-a-line) |
+| [0200-number-of-islands](https://github.com/Anishkotian/DSA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Anishkotian/DSA/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anishkotian/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anishkotian/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -377,6 +380,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Anishkotian/DSA/tree/master/0200-number-of-islands) |
 | [0778-swim-in-rising-water](https://github.com/Anishkotian/DSA/tree/master/0778-swim-in-rising-water) |
 | [1254-number-of-closed-islands](https://github.com/Anishkotian/DSA/tree/master/1254-number-of-closed-islands) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anishkotian/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -390,6 +394,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Anishkotian/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0200-number-of-islands](https://github.com/Anishkotian/DSA/tree/master/0200-number-of-islands) |
 | [0778-swim-in-rising-water](https://github.com/Anishkotian/DSA/tree/master/0778-swim-in-rising-water) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Anishkotian/DSA/tree/master/0883-projection-area-of-3d-shapes) |
 | [1254-number-of-closed-islands](https://github.com/Anishkotian/DSA/tree/master/1254-number-of-closed-islands) |
