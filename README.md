@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Anishkotian/DSA/tree/master/0016-3sum-closest) |
+| [0059-spiral-matrix-ii](https://github.com/Anishkotian/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anishkotian/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anishkotian/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Anishkotian/DSA/tree/master/0118-pascals-triangle) |
@@ -336,6 +337,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Anishkotian/DSA/tree/master/0059-spiral-matrix-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anishkotian/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Anishkotian/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2295-replace-elements-in-an-array](https://github.com/Anishkotian/DSA/tree/master/2295-replace-elements-in-an-array) |
@@ -387,6 +389,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Anishkotian/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0778-swim-in-rising-water](https://github.com/Anishkotian/DSA/tree/master/0778-swim-in-rising-water) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Anishkotian/DSA/tree/master/0883-projection-area-of-3d-shapes) |
 | [1254-number-of-closed-islands](https://github.com/Anishkotian/DSA/tree/master/1254-number-of-closed-islands) |
