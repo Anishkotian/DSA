@@ -78,6 +78,7 @@
 | [0149-max-points-on-a-line](https://github.com/Anishkotian/DSA/tree/master/0149-max-points-on-a-line) |
 | [0200-number-of-islands](https://github.com/Anishkotian/DSA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Anishkotian/DSA/tree/master/0204-count-primes) |
+| [0334-increasing-triplet-subsequence](https://github.com/Anishkotian/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anishkotian/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anishkotian/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Anishkotian/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -191,6 +192,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Anishkotian/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0881-boats-to-save-people](https://github.com/Anishkotian/DSA/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anishkotian/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Anishkotian/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -542,4 +544,8 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Anishkotian/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Anishkotian/DSA/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
